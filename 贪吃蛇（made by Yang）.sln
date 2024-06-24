@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "贪吃蛇（made by Yang）", "贪吃蛇（made by Yang）.vcxproj", "{15E478E6-ABE7-4A48-AD54-C3CC75BBAC2A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Blockade(Yang)", "..\Blockade(Yang)\Blockade(Yang).vdproj", "{E6CE6EE8-15EE-40FF-814D-D0B9291319CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15E478E6-ABE7-4A48-AD54-C3CC75BBAC2A}.Debug|x64.ActiveCfg = Debug|x64
+		{15E478E6-ABE7-4A48-AD54-C3CC75BBAC2A}.Debug|x64.Build.0 = Debug|x64
+		{15E478E6-ABE7-4A48-AD54-C3CC75BBAC2A}.Debug|x86.ActiveCfg = Debug|Win32
+		{15E478E6-ABE7-4A48-AD54-C3CC75BBAC2A}.Debug|x86.Build.0 = Debug|Win32
+		{15E478E6-ABE7-4A48-AD54-C3CC75BBAC2A}.Release|x64.ActiveCfg = Release|x64
+		{15E478E6-ABE7-4A48-AD54-C3CC75BBAC2A}.Release|x64.Build.0 = Release|x64
+		{15E478E6-ABE7-4A48-AD54-C3CC75BBAC2A}.Release|x86.ActiveCfg = Release|Win32
+		{15E478E6-ABE7-4A48-AD54-C3CC75BBAC2A}.Release|x86.Build.0 = Release|Win32
+		{E6CE6EE8-15EE-40FF-814D-D0B9291319CB}.Debug|x64.ActiveCfg = Debug
+		{E6CE6EE8-15EE-40FF-814D-D0B9291319CB}.Debug|x86.ActiveCfg = Debug
+		{E6CE6EE8-15EE-40FF-814D-D0B9291319CB}.Release|x64.ActiveCfg = Release
+		{E6CE6EE8-15EE-40FF-814D-D0B9291319CB}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E9DDB98-CD67-4CE3-A64F-9BEA08091E63}
+	EndGlobalSection
+EndGlobal
